@@ -15,7 +15,7 @@ function on(nami, som) {
     if (link) {
         alert("Zakazingiz qabul qilindi, zakazni kutmang u kelmiydi 🙃")
     } else {
-        alert("... , bu oddiy o'yin")
+        alert("...")
     }
 
 
